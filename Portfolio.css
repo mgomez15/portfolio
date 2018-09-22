@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+}
+
+#name {
+    font-family: 'Aclonica', sans-serif;
+}
+
+#mypic {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnMiKvoNbM_iUm03L5g25Vvt5D2l7gSNCgn847WmKOkCr1ZaF");
+}
+
+.jumbotron-fluid {
+    background-image: url("https://t3.ftcdn.net/jpg/01/87/23/18/240_F_187231834_5rspdtE7ATW345ghLSjvAPwxPpvaqCbm.jpg");
+}
+
+#broncos {
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#train {
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+
+#beach {
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+#slogan {
+    magin-left: 30px;
+}
+
+.description {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+    color: white;
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/28eAc9d/4k-looped-abstract-shiny-background-gold_4dfp4onal__F0000.png");
+}
+
+#back {
+    margin-top: 20px;
+    height: 490px;
+    width: 700px;
+}
+
+#bt {
+    margin-left:300px;
+}
